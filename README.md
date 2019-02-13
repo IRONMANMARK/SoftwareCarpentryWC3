@@ -1,7 +1,7 @@
 # SoftwareCarpentryWC3
 ## Description
 ### About the webpage:
-I was using a webpage that was built by me somtimes ago. It was originally used for iGEM competition that I joined. I decided to make best use of it one more time. To visit the old site just click "Journey Begin". Also, I have add somthing new to it that is you can run Python code through my server. 
+I was using a webpage that was built by me somtimes ago. It was originally used for iGEM competition that I joined. I decided to make best use of it one more time. To visit the old site just click "Journey Begin". Also, I have add somthing new to it that is you can run Python code through my server.
 ### About runing Python code on my webpage:
 Click "Run python code on my server" to jump to the server webpage that can run Python code.
 ## About the warning you may get when visit the webpage on my server:
